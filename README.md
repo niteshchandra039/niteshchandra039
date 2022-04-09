@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nitesh Kumar
 -  👀 I’m interested in Machine learning applications in astronomy
 - 🌱 I’m currently learning Tensorflow
-- 💞️ I’m looking to collaborate on Artificial Intellingence related projects
+- 💞️ I’m looking to collaborate on Artificial Intelligence related projects
 - 📫 How to reach me: niteshchandra039@gmail.com
 
 <!---
@@ -11,25 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 <!-- display the social media buttons in your README -->
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding 
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding) -->
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[3.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[1]: http://i.imgur.com/wWzX9uB.png (Follow on Twitter)
+[2]: http://i.imgur.com/fep1WsG.png (Connect with me on Facebook)
+[3]: http://i.imgur.com/9I6NRUm.png (Follow for codes)
 
 
 <!-- links to your social media accounts -->
