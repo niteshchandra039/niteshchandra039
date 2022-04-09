@@ -9,8 +9,6 @@ niteshchandra039/niteshchandra039 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
 <!-- display the social media buttons in your README -->
 
 [![alt text][1.1]][1]
@@ -40,5 +38,3 @@ You can click the Preview link to take a look at your changes.
 [1]: http://www.twitter.com/astro_nitesh
 [2]: http://www.facebook.com/Nites874
 [3]: http://www.github.com/niteshchandra039
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
