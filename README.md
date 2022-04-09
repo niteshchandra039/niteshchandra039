@@ -10,10 +10,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- display the social media buttons in your README -->
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
 
-[1]: http://i.imgur.com/wWzX9uB.png (Follow on Twitter)
-[2]: http://i.imgur.com/fep1WsG.png (Connect with me on Facebook)
-[3]: http://i.imgur.com/9I6NRUm.png (Follow for codes)
+[1.1]: http://i.imgur.com/wWzX9uB.png (Follow on Twitter)
+[2.1]: http://i.imgur.com/fep1WsG.png (Connect with me on Facebook)
+[3.1]: http://i.imgur.com/9I6NRUm.png (Follow for codes)
 
 
 <!-- links to your social media accounts -->
